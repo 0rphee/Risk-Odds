@@ -251,4 +251,4 @@ main = do
   printFormattedResults "Two VS One Results" twoVoneFormattedResults
   printFormattedResults "Two VS Two Results" twoVtwoFormattedResults
   printFormattedResults "Three VS Two Results" threeVtwoFormattedResults
-  printFormattedResults "Three VS One Resluts" threeVoneFormattedResults
+  printFormattedResults "Three VS One Results" threeVoneFormattedResults
